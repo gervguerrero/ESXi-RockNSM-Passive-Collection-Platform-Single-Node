@@ -1,2 +1,2 @@
-# ESXi-RockNSM-Passive-Collection-Platform-Single-Node-
+# ESXi-RockNSM-Passive-Collection-Platform-Single-Node
 Placeholder Test
